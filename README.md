@@ -1,5 +1,10 @@
-# RoblOOF - return roblox "oof" sound
-This program will allow you to return old character death sound in Roblox.
+<div align="center">
+  <h1>RoblOOF - return roblox "oof" sound</h1>
+  <p>This program will allow you to return old character death sound in Roblox.</p>
+  <img src="https://mystickermania.com/cdn/stickers/games/sticker_3326-256x256.png" alt="Oof image" width="200">
+  <br>
+  <img src="https://raw.githubusercontent.com/Zgoly/robloof/main/icon.ico" alt="Program icon" width="64">
+</div>
 
 ## How it works
 When you start the program, it replaces usual roblox sounds with yours custom. Also this creates a copy of sounds in case you want to return your old ones back.
