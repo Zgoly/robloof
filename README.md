@@ -10,7 +10,7 @@ No. Roblox is not banning players for changing local files, they just don't need
 
 > Can I get old sounds back?
 
-Of course. See below for a tutorial.
+Of course. See "Uninstall" section.
 
 > Is there virus code here?
 
@@ -49,6 +49,24 @@ After each Roblox update, sounds return to old ones. To avoid this, you can set 
 4. Drag recently created shortcut to the folder that opens.
 
 Done! Now program will run every time you turn on your computer. Don't worry, it won't make your computer lag.
+
+## Uninstall
+If you want to bring back your old sounds then you have 3 ways:
+
+1. First way
+    1. Remove all files from the `sounds` folder.
+    2. Move all files from the `backup` folder to the `sounds` folder.
+    3. Run `robloff.exe`.
+2. Second way
+    1. Reinstall Roblox
+2. Third way
+    1. Wait for Roblox update
+
+If you want to uninstall this program then:
+
+1. If you set program to startup, then repeat steps in the "How to use" section, but only on last step remove shortcut from the startup folder.
+2. Delete folder you created in the "Setup" section.
+3. Done!
 
 ## Compile
 1. Run `build.bat` file.
