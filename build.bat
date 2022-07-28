@@ -1,1 +1,1 @@
-pyinstaller --noconfirm --onefile --windowed --icon "./icon.ico" "./RoblOOF.py"
+pyinstaller --noconfirm --onefile --windowed --icon "icon.ico" "robloff.py"
