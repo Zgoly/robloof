@@ -28,7 +28,7 @@ No. You can see for yourself by looking at source code of the project. If you ar
 
 > I ran `robloof.exe` but nothing happened!
 
-So it should be. In order not to use extra computer resources, the program starts in "quiet" mode. Once launched, re-enter Roblox. If nothing changes, then you placed file in wrong place.
+So it should be. In order not to use extra computer resources, the program starts in "quiet" mode; Once launched, re-enter Roblox. If nothing changes, then you placed file in wrong place.
 
 ## Setup
 1. Click **[here](https://github.com/zgoly/robloof/releases/latest/download/robloof.exe)** to download latest `robloof.exe` release.
@@ -36,7 +36,7 @@ So it should be. In order not to use extra computer resources, the program start
 3. Open zip and move folder `robloof-main` to any place, for example, to your desktop.
 4. Move downloaded `robloof.exe` file in folder mentioned above.
 
-If you did everything correctly, then you will get the following file structure:
+If you did everything correctly, then you will get following file structure:
 
 - sounds
 - robloof.exe
