@@ -4,6 +4,11 @@
   <img src="https://mystickermania.com/cdn/stickers/games/sticker_3326-256x256.png" alt="Oof image" width="200">
   <br>
   <img src="https://raw.githubusercontent.com/Zgoly/robloof/main/icon.ico" alt="Program icon" width="64">
+  <br><br>
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/zgoly/robloof/total?logo=GitHub&style=flat">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zgoly/robloof">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/zgoly/robloof?style=flat">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/zgoly/robloof?style=flat">
 </div>
 
 ## How it works
