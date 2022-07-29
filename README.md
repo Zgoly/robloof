@@ -17,15 +17,15 @@ When you start the program, it replaces usual roblox sounds with yours custom. A
 > Can I be banned for this?
 
 No. Roblox is not banning players for changing local files, they just don't need it.
-
+<br><br>
 > Can I get old sounds back?
 
 Of course. See **[Uninstall](https://github.com/Zgoly/robloof#uninstall)** section.
-
+<br><br>
 > Is there virus code here?
 
 No. You can see for yourself by looking at source code of the project. If you are still afraid to run files from here, you can compile by yourself, see **[Compile](https://github.com/Zgoly/robloof#compile)** section.
-
+<br><br>
 > I ran `robloof.exe` but nothing happened!
 
 So it should be. In order not to use extra computer resources, the program starts in "quiet" mode; Once launched, re-enter Roblox. If nothing changes, then you placed file in wrong place.
