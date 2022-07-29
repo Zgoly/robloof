@@ -15,11 +15,11 @@ No. Roblox is not banning players for changing local files, they just don't need
 
 > Can I get old sounds back?
 
-Of course. See "Uninstall" section.
+Of course. See **[Uninstall](https://github.com/Zgoly/robloof#uninstall)** section.
 
 > Is there virus code here?
 
-No. You can see for yourself by looking at source code of the project. If you are still afraid to run files from here, you can compile by yourself, see "Compile" section.
+No. You can see for yourself by looking at source code of the project. If you are still afraid to run files from here, you can compile by yourself, see **[Compile](https://github.com/Zgoly/robloof#compile)** section.
 
 > I ran `robloof.exe` but nothing happened!
 
