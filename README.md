@@ -81,3 +81,7 @@ If you want to uninstall this program then:
 ## Compile
 1. Run `build.bat` file.
 2. After compiling you can find `robloff.exe` file in the `dist` folder.
+
+## Additional info
+- Language used to write the program - **[Python](https://www.python.org/)**.
+- Program where I made icon for the program - **[Inkscape](https://inkscape.org/)**. *I made this icon in about 30 seconds lol*
