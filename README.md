@@ -30,7 +30,9 @@ No. You can see for yourself by looking at source code of the project.
 <br><br>
 > I ran `robloof.exe` but nothing happened!
 
-Actually happened. Check your tray (icons at the bottom right of the screen).
+Actually happened. Check your system tray.
+<br>
+<img src="https://www.windowslatest.com/wp-content/uploads/2022/03/Windows-11-system-tray.jpg" width="256"/>
 
 ## Setup
 1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
@@ -38,11 +40,15 @@ Actually happened. Check your tray (icons at the bottom right of the screen).
 3. Unzip zip to any place, for example, to your desktop.
 
 ## How to use
-Just run `RoblOOF.ahk` and program will run and create [`config.ini`](#about-configini); Now, after each closing of Roblox, program will change your sounds to new ones.
-- To bring back roblox sounds, find RoblOOF in the tray, right-click on it and select "Return Sounds".
-- To close RoblOOF, find it in the tray, right-click on it and select "Exit".
-- To run RoblOOF when Windows starts, right-click on it and select "Run On Startup".
-- To don't run RoblOOF when Windows starts, right-click on it and select "Don't Run On Startup".
+Just run `RoblOOF.ahk` and program will run!
+
+Now, after each closing of Roblox, program will change your sounds to new ones.
+
+You can also find some settings in the menu. To open menu, find RoblOOF in the system tray and right-click on it.
+- To bring back roblox sounds, select "Return Sounds".
+- To run RoblOOF when Windows starts, select "Run On Startup".
+- To don't run RoblOOF when Windows starts, select "Don't Run On Startup".
+- To close RoblOOF, select "Exit".
 
 ## About `config.ini`
 In `config.ini` you can configure some settings:
