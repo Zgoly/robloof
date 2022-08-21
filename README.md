@@ -31,12 +31,12 @@ No. You can see for yourself by looking at source code of the project.
 Actually happened. Check your tray (icons at the bottom right of the screen).
 
 ## Setup
-1. **[Download AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe)**.
+1. **[Download AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe)**, .
 2. **[Download project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip)**.
 3. Unzip zip to any place, for example, to your desktop.
 
 ## How to use
-Just run `robloff.exe` file and program will do everything for you.
+Just run `RoblOOF.ahk` and program will run and create `config.ini`.
 
 Now, after each closing of Roblox, program will change your sounds to new ones.
 
