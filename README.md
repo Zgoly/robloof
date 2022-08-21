@@ -54,7 +54,7 @@ In `config.ini` you can configure some settings:
   - Also, you can change it to custom sound. All you need to do is specify the path to the sound. Example:
     - *Drop sound `wow.mp3` into folder with program*
     - Instead of default `\*64`, specify value `wow.mp3`
-- `backup_folder` - folder in which backup of roblox sounds will be stored. Default - `backup`. If you don't want to create a backup, set the value to 0.
+- `backup_folder` - folder in which backup of roblox sounds will be stored. Default - `backup`. If you don't want to create a backup, set the value to `0`.
 - `sounds_folder` - folder, where the sounds you want to change to are stored. Default - `sounds`.
 - `roblox_versions_folder` - path to folder with roblox versions. Default - `(Your local AppData folder)\Roblox\Versions`.
 - `roblox_sounds_folder` - path to folder with roblox sounds `Default - content\sounds`.
