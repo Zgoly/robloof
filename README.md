@@ -38,7 +38,7 @@ Actually happened. Check your tray (icons at the bottom right of the screen).
 3. Unzip zip to any place, for example, to your desktop.
 
 ## How to use
-Just run `RoblOOF.ahk` and program will run and create `config.ini`; Now, after each closing of Roblox, program will change your sounds to new ones.
+Just run `RoblOOF.ahk` and program will run and create [`config.ini`](#about-configini); Now, after each closing of Roblox, program will change your sounds to new ones.
 - To close program, find it in the tray, right-click on it and select "Exit".
 - To run program when Windows starts, right-click on it and select "Run On Startup".
 - To don't run program when Windows starts, right-click on it and select "Don't Run On Startup".
