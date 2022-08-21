@@ -1,1 +1,0 @@
-pyinstaller --noconfirm --onefile --windowed --icon "icon.ico" "robloff.py"
