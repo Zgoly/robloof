@@ -44,7 +44,7 @@ Just run `RoblOOF.ahk` and program will run and create `config.ini`; Now, after 
 In `config.ini` you can configure some settings:
 - `roblox_name` - the name by which the application will identify roblox. Default - `Roblox`.
 - `sound` - sound that will play when sounds change successfully. Default - `\*64`.
-  - You can change this sound:
+  - You can change this sound to...
     - `0` - Don't play a sound
     - `\*-1` - Simple beep. If the sound card is not available, the sound is generated using the speaker.
     - `\*16` - Hand (stop/error)
