@@ -26,7 +26,7 @@ No. You can see for yourself by looking at source code of the project.
 
 ### I ran `robloof.exe` but nothing happened!
 Actually happened. Check your system tray.
-<br>
+<br><br>
 <img src="https://www.windowslatest.com/wp-content/uploads/2022/03/Windows-11-system-tray.jpg" width="300"/>
 
 ## Download
