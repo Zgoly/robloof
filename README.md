@@ -5,7 +5,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/Zgoly/robloof/main/icon.ico" alt="Program icon" width="64">
   <br><br>
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/zgoly/robloof/total?logo=GitHub&style=flat">
+  <img alt="GitHub Windows only" src="https://shields.io/badge/-Windows%20only-important">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zgoly/robloof">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/zgoly/robloof?style=flat">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/zgoly/robloof?style=flat">
@@ -39,6 +39,9 @@ Actually happened. Check your tray (icons at the bottom right of the screen).
 
 ## How to use
 Just run `RoblOOF.ahk` and program will run and create `config.ini`; Now, after each closing of Roblox, program will change your sounds to new ones.
+- To close program, find it in the tray, right-click on it and select "Exit".
+- To run program when Windows starts, right-click on it and select "Run On Startup".
+- To don't run program when Windows starts, right-click on it and select "Don't Run On Startup".
 
 ## About `config.ini`
 In `config.ini` you can configure some settings:
