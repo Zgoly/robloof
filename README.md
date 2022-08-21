@@ -22,7 +22,7 @@ If you don't believe, read [this](https://devforum.roblox.com/t/1333413).
 <br><br>
 > Can I get old sounds back?
 
-Yes. Read below.
+Yes. Read [this](#how-to-use).
 <br><br>
 > Is there virus code here?
 
@@ -33,15 +33,16 @@ No. You can see for yourself by looking at source code of the project.
 Actually happened. Check your tray (icons at the bottom right of the screen).
 
 ## Setup
-1. Download **[AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe)**, run it and follow instructions.
-2. Download **[project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip)**.
+1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
+2. Download [project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
 3. Unzip zip to any place, for example, to your desktop.
 
 ## How to use
 Just run `RoblOOF.ahk` and program will run and create [`config.ini`](#about-configini); Now, after each closing of Roblox, program will change your sounds to new ones.
-- To close program, find it in the tray, right-click on it and select "Exit".
-- To run program when Windows starts, right-click on it and select "Run On Startup".
-- To don't run program when Windows starts, right-click on it and select "Don't Run On Startup".
+- To bring back roblox sounds, find RoblOOF in the tray, right-click on it and select "Return Sounds".
+- To close RoblOOF, find it in the tray, right-click on it and select "Exit".
+- To run RoblOOF when Windows starts, right-click on it and select "Run On Startup".
+- To don't run RoblOOF when Windows starts, right-click on it and select "Don't Run On Startup".
 
 ## About `config.ini`
 In `config.ini` you can configure some settings:
@@ -63,5 +64,5 @@ In `config.ini` you can configure some settings:
 - `roblox_sounds_folder` - path to folder with roblox sounds `Default - content\sounds`.
 
 ## Additional info
-- Language used to write the program - **[AutoHotKey](https://www.autohotkey.com/)**.
-- Program where I made icon for the program - **[Inkscape](https://inkscape.org/)**. *I made this icon in about 30 seconds lol*
+- Language used to write the program - [AutoHotKey](https://www.autohotkey.com/).
+- Program where I made icon for the program - [Inkscape](https://inkscape.org/). *I made this icon in about 30 seconds lol*
