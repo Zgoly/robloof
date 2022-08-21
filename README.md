@@ -1,6 +1,6 @@
 <div align="center">
   <h1>RoblOOF - return roblox "oof" sound</h1>
-  <p>This program will allow you to replace sound in Roblox.</p>
+  <p>This program will allow you to replace sounds in Roblox.</p>
   <img src="https://mystickermania.com/cdn/stickers/games/sticker_3326-256x256.png" alt="Oof image" width="200">
   <br>
   <img src="https://raw.githubusercontent.com/Zgoly/robloof/main/icon.ico" alt="Program icon" width="64">
