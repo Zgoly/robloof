@@ -33,8 +33,8 @@ No. You can see for yourself by looking at source code of the project.
 Actually happened. Check your tray (icons at the bottom right of the screen).
 
 ## Setup
-1. **[Download AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe)**, run it and follow instructions.
-2. **[Download project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip)**.
+1. Download **[AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe)**, run it and follow instructions.
+2. Download **[project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip)**.
 3. Unzip zip to any place, for example, to your desktop.
 
 ## How to use
