@@ -14,27 +14,22 @@
 ## How it works
 When roblox closes, roblox sounds replaced with yours custom. Also this creates a copy of sounds in case you want to return your old ones back.
 ## FAQ
-> Can I be banned for this?
+### Can I be banned for this?
 
-No. Roblox does not ban players for modifying local files, if they did I would warn you.
+No. Roblox does not ban players for modifying local files, if they did I would warn you. If you don't believe, read [this](https://devforum.roblox.com/t/1333413).
 
-If you don't believe, read [this](https://devforum.roblox.com/t/1333413).
-<br><br>
-> Can I get old sounds back?
-
+### Can I get old sounds back?
 Yes. Read [this](#how-to-use).
-<br><br>
-> Is there virus code here?
 
+### Is there virus code here?
 No. You can see for yourself by looking at source code of the project.
-<br><br>
-> I ran `robloof.exe` but nothing happened!
 
+### I ran `robloof.exe` but nothing happened!
 Actually happened. Check your system tray.
 <br>
-<img src="https://www.windowslatest.com/wp-content/uploads/2022/03/Windows-11-system-tray.jpg" width="256"/>
+<img src="https://www.windowslatest.com/wp-content/uploads/2022/03/Windows-11-system-tray.jpg" width="300"/>
 
-## Setup
+## Download
 1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
 2. Download [project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
 3. Unzip zip to any place, for example, to your desktop.
@@ -44,7 +39,7 @@ Just run `RoblOOF.ahk` and program will run!
 
 Now, after each closing of Roblox, program will change your sounds to new ones.
 
-You can also find some settings in the menu. To open menu, find RoblOOF in the system tray and right-click on it.
+You can also find some settings in the menu. To open menu, find RoblOOF in the [system tray](#i-ran-robloofexe-but-nothing-happened) and right-click on it.
 - To bring back roblox sounds, select "Return Sounds".
 - To run RoblOOF when Windows starts, select "Run On Startup".
 - To don't run RoblOOF when Windows starts, select "Don't Run On Startup".
