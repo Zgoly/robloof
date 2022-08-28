@@ -23,7 +23,7 @@ No. Roblox does not ban players for modifying local files, if they did I would w
 Yes. Read [this](#how-to-use).
 
 ### - Is there virus code here?
-No. You can see for yourself by looking at source code of the project.
+No. You can see for yourself by looking at `RoblOOF.ahk`.
 
 ### - I ran `robloof.exe` but nothing happened!
 Actually happened. Check your system tray.
@@ -32,7 +32,7 @@ Actually happened. Check your system tray.
 
 ## ⬇️ Download
 1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
-2. Download [project zip](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
+2. Download [project repository](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
 3. Unzip zip to any place, for example, to your desktop.
 
 ## ❗ How to use
