@@ -9,9 +9,13 @@ Menu, Tray, Add, Don't Run On Startup, DROS
 Menu, Tray, Add
 Menu, Tray, Add, Exit, exitApp
 
-; Determine main variables
+; Create global variables
+global appName
 appName = RoblOOF
+global configName
 configName = config.ini
+
+; Create config.ini
 If !FileExist(configName)
 {
     IniWrite, Roblox, %configName%, %appName%, roblox_name
@@ -23,10 +27,6 @@ If !FileExist(configName)
 }
 
 getVersions() {
-    ; Refer to existing variables
-    global appName
-    global configName
-
     ; Create array of available Roblox versions
     Array := Array()
     IniRead, roblox_versions_folder, %configName%, %appName%, roblox_versions_folder
@@ -38,10 +38,6 @@ getVersions() {
 }
 
 replaceSounds(Wait) {
-    ; Refer to existing variables
-    global appName
-    global configName
-
     ; Continue execution only when Roblox closes
     if (Wait == 1) {
         IniRead, roblox_name, %configName%, %appName%, roblox_name
@@ -77,10 +73,6 @@ replaceSounds(Wait) {
 replaceSounds(1)
 
 returnSounds() {
-    ; Refer to existing variables
-    global appName
-    global configName
-
     Array := getVersions()
 
     ; Bring back sounds
@@ -103,12 +95,10 @@ returnSounds() {
 
 
 ROS() {
-    global appName
     FileCreateShortcut, %A_ScriptName%, %A_Startup%\%appName%.lnk
 }
 
 DROS() {
-    global appName
     FileDelete, %A_Startup%\%appName%.lnk
 }
 
