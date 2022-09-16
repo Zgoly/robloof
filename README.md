@@ -5,11 +5,11 @@
   <br>
   <img src="https://raw.githubusercontent.com/Zgoly/robloof/main/icon.ico" alt="Program icon" width="64">
   <br><br>
-  <img alt="GitHub Windows only" src="https://shields.io/badge/-Windows%20only-important">
+  <img alt="GitHub Windows only" src="https://shields.io/badge/-Windows%20only-blue">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zgoly/robloof">
-  <img alt="GitHub Repo downloads" src="https://img.shields.io/badge/Downloads-idk%20mb%2020%2B-brightgreenf">
+  <img alt="GitHub Repo downloads" src="https://img.shields.io/badge/Downloads-idk%20mb%2020%2B-blue">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/zgoly/robloof?style=flat">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/zgoly/robloof?style=flat">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/zgoly/robloof?style=flat&color=blue">
 </div>
 
 ## ❓ How it works
