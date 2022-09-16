@@ -39,8 +39,7 @@ Actually happened. Check your system tray.
 ## ❗ How to use
 Just run `RoblOOF.ahk` and program will run!
 
-Now, after each closing of Roblox, program will change your sounds to new ones.
-That is, after checking for updates, Roblox *closes* and change sounds to yours.
+Now, after each closing of Roblox, program will change your sounds to new ones. That is, after checking for updates, **Roblox closes** and change sounds to yours.
 
 You can also find some settings in the menu. To open menu, find RoblOOF in the [system tray](#--i-ran-robloofexe-but-nothing-happened) and right-click on it.
 - To bring back roblox sounds, select "Return Sounds".
