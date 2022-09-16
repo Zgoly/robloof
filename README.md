@@ -59,8 +59,8 @@ In `config.ini` you can configure some settings:
     - `\*48` - Exclamation
     - `\*64` - Asterisk (info)
   - Also, you can change it to custom sound. All you need to do is specify the path to the sound. Example:
-    - *Drop sound `wow.mp3` into folder with program*
-    - Instead of default `\*64`, specify value `wow.mp3`
+    1. Drop sound `wow.mp3` into folder with program
+    2. Instead of default `\*64`, specify value `wow.mp3`
 - `backup_folder` - folder in which backup of roblox sounds will be stored. Default - `backup`. If you don't want to create a backup, set the value to `0`.
 - `sounds_folder` - folder, where the sounds you want to change to are stored. Default - `sounds`.
 - `roblox_versions_folder` - path to folder with roblox versions. Default - `(Your local AppData folder)\Roblox\Versions`.
@@ -68,4 +68,4 @@ In `config.ini` you can configure some settings:
 
 ## ➕ Additional info
 - Language used to write the program - [AutoHotKey](https://www.autohotkey.com/).
-- Program where I made icon for the program - [Inkscape](https://inkscape.org/). *I made this icon in about 30 seconds lol*
+- Program where I made icon for the program - [Inkscape](https://inkscape.org/).
