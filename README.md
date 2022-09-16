@@ -15,6 +15,11 @@
 ## ❓ How it works
 When roblox closes, roblox sounds replaced with yours custom. Also this creates a copy of sounds in case you want to return your old ones back.
 
+## ⬇️ Download
+1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
+2. Download [project repository](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
+3. Unzip zip to any place, for example, to your desktop.
+
 ## 🤔 FAQ
 ### - Can I be banned for this?
 
@@ -30,11 +35,6 @@ No. You can see for yourself by looking at `RoblOOF.ahk`.
 Actually happened. Check your system tray.
 <br><br>
 <img src="https://www.windowslatest.com/wp-content/uploads/2022/03/Windows-11-system-tray.jpg" width="300"/>
-
-## ⬇️ Download
-1. Download [AutoHotKey](https://www.autohotkey.com/download/ahk-install.exe), run it and follow instructions.
-2. Download [project repository](https://github.com/Zgoly/robloof/archive/refs/heads/main.zip).
-3. Unzip zip to any place, for example, to your desktop.
 
 ## ❗ How to use
 Just run `RoblOOF.ahk` and program will run!
