@@ -1,3 +1,6 @@
+> [!NOTE]
+> RoblOOF is now archived in favor of the more functional [Bloxstrap](https://github.com/pizzaboxer/bloxstrap). It can do the same functionality, but better and adds many new features. Use it instead.
+
 <div align="center">
   <h1>🔷 RoblOOF - return roblox "oof" sound</h1>
   <p>This program will allow you to replace sounds in Roblox.</p>
